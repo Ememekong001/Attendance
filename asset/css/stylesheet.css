@@ -1,0 +1,61 @@
+body{
+    background-color: rgb(28,28,41);
+
+}
+.two{
+    color: #ffffff;
+    display: inline;
+    padding: 1rem;
+    
+}
+ a{
+   text-decoration: none; 
+}
+ul{
+    margin: 0;
+    padding: 0;
+    margin-top: 1rem;
+}
+.zero{
+    margin-left: 18rem;
+    font-family: Trebuchet MS;
+    font-size: 2rem;
+    color: #ff0000;
+
+}
+.one{
+    color: #ffffff;
+    display: inline;
+    padding: 1rem;
+}
+.three{
+    color: #707070;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    margin-left: 38rem;
+}
+    .four{
+        font-size: 5rem;
+        text-align: center;
+        color: #ffffff;
+        padding-top: 2rem;
+    }
+    span{
+        color: #ff0000;
+    }
+    .five{
+        font-size: 1.5rem;
+        text-align: center;
+        color: #ffffff;
+        padding-top: 1rem;
+    }
+    button{
+        padding: 1.2rem;
+        margin-left: 36rem;
+        border-radius: 1rem;
+        padding-right: 3rem;
+        padding-left: 3rem;
+        color: #ffffff;
+        background-color: #ff0000;
+    }
